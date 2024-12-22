@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying computer engineering at Tribhuvan University
 - 💞️ I’m looking to collaborate on machine learning and AI projects
 - 📫 Reach me pokhrel.bigyan123@gmail.com
-- 🌐 [Website](bigyanpokhrel.com.np)
+- 🌐 [Website](https://bigyanpokhrel.com.np/)
 
 
 
